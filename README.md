@@ -1,1 +1,1 @@
-# project_2_california_wildfires
+# Project 2: California Wildfires
