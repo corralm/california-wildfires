@@ -1,7 +1,22 @@
+# Ignore VS Code files
 .vscode/*
 .vscode/settings.json
 .vscode/tasks.json
 .vscode/launch.json
 .vscode/extensions.json
 *.code-workspace
-*.DS_Store
+.DS_Store
+
+# Spark
+*.snappy.parquet*
+*.crc
+_SUCCESS
+
+
+# Ignore Jupyter checkpoints
+*checkpoint.*
+
+# Ignore pickles
+*.pkl
+*.pickle
+
