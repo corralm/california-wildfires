@@ -15,6 +15,7 @@ _SUCCESS
 
 # Ignore Jupyter checkpoints
 *checkpoint.*
+.ipynb_checkpoints
 
 # Ignore pickles
 *.pkl
