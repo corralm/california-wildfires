@@ -21,3 +21,6 @@ _SUCCESS
 *.pkl
 *.pickle
 
+# API Key
+config.py
+__pycache__
